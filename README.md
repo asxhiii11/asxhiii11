@@ -31,7 +31,7 @@ Example: <img src="your-image-filename.png" alt="Your Name" width="100%" />
 
 
 
-<p>Visit my <strong><a href="[Your_Portfolio_URL]" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> to know more about me.</p>
+<p>Visit my <strong><a href="[https://asxhiii11.github.io/Mohamed-Ashik---Portfolio/]" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> to know more about me.</p>
 </td>
 </tr>
 </table>
