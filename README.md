@@ -1,87 +1,22 @@
+<h1 align="center">Hi 👋, I'm Mohamed Ashik A</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asxhiii11&label=Profile%20views&color=0e75b6&style=flat" alt="asxhiii11" /> </p>
 
-<!-- Header Section with Two-Column Layout -->
+- 🌱 I’m currently learning **new frontend technologies**
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<!--
-REPLACE this placeholder with a link to your own banner image, avatar, or GIF.
-You can upload an image to your README repository and link to it.
-Example: <img src="your-image-filename.png" alt="Your Name" width="100%" />
--->
-<img src="https://www.google.com/search?q=https://placehold.co/400x400/222222/FFF%3Ftext%3DYour%2BImage%2BHere" alt="Mohamed Ashik A" width="100%" style="border-radius: 10px;" />
-</td>
-<td width="50%" valign="top" align="left">
+- 💬 Ask me about **Javascript , React**
 
+- 📫 How to reach me **ashiachu793@gmail.com**
 
-
-
-
-<h3>Hi, I'm Mohamed Ashik A 👋</h3>
-<p>I'm a <strong>Frontend Developer</strong>.</p>
-
-
-
-
-
-<p><em>Hi, I'm a frontend developer, currently focusing on new frontend technologies.</em></p>
-
-
-
-
-
-<p>Visit my <strong><a href="[https://asxhiii11.github.io/Mohamed-Ashik---Portfolio/]" target="_blank" rel="noopener noreferrer">Portfolio</a></strong> to know more about me.</p>
-</td>
-</tr>
-</table>
-
-🌐 FIND ME
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- Replace with your own links. Find more badges at shields.io -->
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/mohamed-ashik-91628b250" target="_blank" rel="noopener noreferrer"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/.asxhiii.?igsh=Nml1OWQyMzhmcnhr" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:ashiachu793@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/mohamed-ashik-91628b250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamed-ashik-91628b250" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__.asxhiii.__?igsh=nml1owqymzhmcnhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__.asxhiii.__?igsh=nml1owqymzhmcnhr" height="30" width="40" /></a>
 </p>
 
-💻 TECH STACK
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p align="left">
-<!-- Add/Remove skills as needed. Find icon names at simpleicons.org -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-</p>
-
-📊 GITHUB STATS
-
-<!--
-CRITICAL: Replace all instances of [Your_GitHub_Username] with your actual GitHub username.
-You can also customize the theme= parameter. Common themes:
-dracula, dark, light, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave
--->
-
-<!-- Profile Views Counter -->
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://hits.seeyoufarm.com/api/count/incr/badge.svg%3Furl%3Dhttps%253A%252F%252Fgithub.com%252F[Your_GitHub_Username]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+views&edge_flat=false" alt="Profile Views"/>
-</p>
-
-<!-- GitHub Stats & Top Languages -->
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your_GitHub_Username]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="[Your_GitHub_Username]'s GitHub Stats"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[Your_GitHub_Username]&layout=compact&langs_count=8&theme=dracula" alt="[Your_GitHub_Username]'s Top Languages"/>
-</p>
-
-<!-- Top Contributed Repo Card -->
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-contributor-stats.vercel.app/api%3Fusername%3D[Your_GitHub_Username]&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="[Your_GitHub_Username]'s Top Contributed Repos"/>
-</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/asxhiii11"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="asxhiii11" /></a><a href="https://ko-fi.com/asxhiii11"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="asxhiii11" /></a></p><br><br>
