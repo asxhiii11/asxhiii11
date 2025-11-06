@@ -1,25 +1,78 @@
-# 💫 About Me:
-👋 Hi, I'm Mohamed Ashik<br>🎓 B.Sc AI & ML | 💻 Frontend Developer  <br>🌐 Skilled in React, JavaScript, HTML, CSS, Bootstrap  <br>🔥 Passionate about building creative and responsive web apps  <br>🏋️‍♂️ Gym enthusiast in my free time<br>
+<!-- Profile Header -->
+<h1 align="center">💫 Hey there! I'm Mohamed Ashik 👋</h1>
+<h3 align="center">🎓 B.Sc AI & ML | 💻 Frontend Developer</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__.asxhiii.__?igsh=Nml1OWQyMzhmcnhr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-ashik-91628b250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashiachu793@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asxhiii11&theme=jolly&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asxhiii11&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asxhiii11&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=asxhiii11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  🌐 Skilled in <b>React</b>, <b>JavaScript</b>, <b>HTML</b>, <b>CSS</b>, and <b>Bootstrap</b><br>
+  🔥 Passionate about building creative, responsive web apps<br>
+  🏋️‍♂️ Gym enthusiast & lifelong learner<br>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=asxhiii11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/asxhiii) 
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.instagram.com/__.asxhiii.__?igsh=Nml1OWQyMzhmcnhr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-ashik-91628b250" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ashiachu793@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,cpp,python,git,github,figma,canva,adobe,ps,ai,pr,lightroom,vscode,netlify" /><br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asxhiii11&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=asxhiii11&theme=radical&hide_border=false" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxhiii11&theme=radical&hide_border=false&layout=compact" height="180em"/>
+</p>
+
+---
+
+### 🔝 Top Contributed Repositories  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=asxhiii11&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+### 💖 Support Me on Ko-fi  
+<p align="center">
+  <a href="https://ko-fi.com/asxhiii" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me a Coffee" height="50"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=asxhiii11&icon=0&color=11" alt="Visitor Count"/>
+</p>
+
+<!-- ✨ Animated Divider -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+AI+%26+ML+Student;Always+Learning+New+Things!;Let's+Build+Something+Amazing+Together!+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- Footer Credit -->
+<p align="center">
+  🌟 <i>Proudly created with</i> <a href="https://gprm.itsvg.in" target="_blank"><b>GPRM</b></a> 🌟
+</p>
