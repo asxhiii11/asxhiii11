@@ -7,7 +7,7 @@
   🏋️‍♂️ Gym enthusiast & lifelong learner<br>
 </p>
 
-<p align="center">
+<p align="center" width= "100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E4FF&center=true&vCenter=true&width=400&lines=Always+Learning+New+Things!;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </p>
 
