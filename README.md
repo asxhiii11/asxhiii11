@@ -7,6 +7,14 @@
   🏋️‍♂️ Gym enthusiast & lifelong learner<br>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+AI+%26+ML+Student;Always+Learning+New+Things!;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.komarev.com/user/asxhiii11/count.svg" alt="Visitor Count"/>
+</p>
+
 ---
 
 ### Connect with Me
@@ -14,7 +22,7 @@
   <a href="https://www.instagram.com/__.asxhiii.__?igsh=Nml1OWQyMzhmcnhr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-ashik-91628b250" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-ashik-91628b250" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ashiachu793@gmail.com">
@@ -27,7 +35,7 @@
 <details>
 <summary><h3>My Tech Stack</h3></summary>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,cpp,python,git,github,figma,canva,adobe,ps,ai,pr,lightroom,vscode,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,cpp,python,git,github,figma,canva,ps,ai,pr,lightroom,vscode,netlify" /><br>
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
 </p>
 </details>
@@ -39,7 +47,7 @@
   <img src="https://streak-stats.demolab.com?user=asxhiii11&theme=radical&hide_border=false" height="180em"/>
 </p>
 <p align="center">
-  <img src="https.github.com/readme-stats-readme-stats.vercel.app/api/top-langs/?username=asxhiii11&theme=radical&hide_border=false&layout=compact" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asxhiii11&theme=radical&hide_border=false&layout=compact" height="180em"/>
 </p>
 </details>
 
@@ -57,14 +65,4 @@
   <a href="https://ko-fi.com/asxhiii" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me a Coffee" height="50"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=asxhiii11&icon=0&color=11" alt="Visitor Count"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E4FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+AI+%26+ML+Student;Always+Learning+New+Things!;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </p>
