@@ -73,6 +73,4 @@
 ---
 
 <!-- Footer Credit -->
-<p align="center">
-  🌟 <i>Proudly created with</i> <a href="https://gprm.itsvg.in" target="_blank"><b>GPRM</b></a> 🌟
-</p>
+
