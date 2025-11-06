@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=#ff69b4" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge" alt="Visitor Count"/>
 </p>
 
 ---
